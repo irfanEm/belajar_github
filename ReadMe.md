@@ -8,3 +8,4 @@ apa saja yang telah kita pelajari ?
 => membuat folder dan inisialisasi folder menjadi repositori menggunakan git
 => membuat file baru, cek status dan melihat daftar file di folder git
 => menambahkan file ke dalam staging environment
+=> tes editor github
