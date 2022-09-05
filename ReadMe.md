@@ -9,3 +9,4 @@ apa saja yang telah kita pelajari ?
 => membuat file baru, cek status dan melihat daftar file di folder git
 => menambahkan file ke dalam staging environment
 => tes editor github
+=> coba github code editor
