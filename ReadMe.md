@@ -10,3 +10,4 @@ apa saja yang telah kita pelajari ?
 => menambahkan file ke dalam staging environment
 => tes editor github
 => coba github code editor
+=> menggunakan fitur git pull
