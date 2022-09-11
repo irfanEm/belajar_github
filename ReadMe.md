@@ -11,3 +11,4 @@ apa saja yang telah kita pelajari ?
 => tes editor github
 => coba github code editor
 => menggunakan fitur git pull
+=> kita akan belajar menarik branch dari repository github ke repository local
