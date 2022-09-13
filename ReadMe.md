@@ -12,3 +12,4 @@ apa saja yang telah kita pelajari ?
 => coba github code editor
 => menggunakan fitur git pull
 => kita akan belajar menarik branch dari repository github ke repository local
+=> kita akan mencoba membuat branch di local dan mem-push nya ke github
